@@ -16,7 +16,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/cenfun/mouse-helper.git"
+        "url": "git+git@github.com:CodingPoesy/TwiceFasterMouseHelper.git"
     },
     "devDependencies": {
         "eslint": "^8.41.0",
