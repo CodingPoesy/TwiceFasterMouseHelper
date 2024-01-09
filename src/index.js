@@ -33,7 +33,7 @@ const mouseHelper = function(option) {
 
     const imageNormal = document.createElement('img');
     imageNormal.src = mouseNormal;
-    imageNormal.style.cssText = 'position: absolute; top: 0; left: -3px; width: 20px; height: 20px; display: none;';
+    imageNormal.style.cssText = 'position: absolute; top: 0; left: -3px; width: 50px; height: 50px; display: none;';
     container.appendChild(imageNormal);
 
     document.body.appendChild(container);
